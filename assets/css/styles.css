@@ -1,0 +1,20 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #d8d1dd;
+}
+
+.navbar-custom{
+    background-color: #A488BF;
+}
+
+footer {
+    background-color: #A488BF;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#map{
+    height: 500px;
+}
